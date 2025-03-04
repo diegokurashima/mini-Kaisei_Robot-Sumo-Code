@@ -10,4 +10,6 @@ Part of the actual code is hidden (industrial secret :blush:).
 
 Código para Mini Sumô (500g). Baseado no "mini Kaisei", da equipe Raiden, que competiu na RoboChallenge Brasil 2024.
 
-Parte do código foi ocultado (segredo industrial :blush:).
+Robô conforme as regras da [**RoboCore**](https://www.combatederobos.com.br/) e da [**All Japan Robot-Sumo**](https://www.fsi.co.jp/sumo/index.html).
+
+Parte do código completo foi ocultado (segredo industrial :blush:).
